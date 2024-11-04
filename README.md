@@ -15,12 +15,14 @@ I’m an ambitious third-year Software Engineering student at the University of 
 
 I'm also a firm believer in fostering a positive, supportive environment - so if you’re looking for a friendly chat or to collaborate, don’t hesitate to reach out!
 
+---
+
 #### Here are a few things I've picked up along my journey at UofC:
-- 🗣 **Java** 𒑰 Swing 𒑰 MySQL 𒑰 JDBC 𒑰 Real-time GUI
-- 💻 **HTML** 𒑰 CSS 𒑰 JavaScript 𒑰 React 𒑰 Flask 𒑰 Node.js
-- 📊 **SQL** 𒑰 Database Design 𒑰 Query Optimization
-- 🎮 **C++** 𒑰 Classes 𒑰 Vectors 𒑰 Basic Machine Learning
-- ♽ **Currently Learning** Docker 𒑰 CI/CD 𒑰 AWS Basics
+- 🗣 **Java** · Swing · MySQL · JDBC · Real-time GUI
+- 💻 **HTML** · CSS · JavaScript · React · Flask · Node.js
+- 📊 **SQL** · Database Design · Query Optimization
+- 🎮 **C++** · Classes · Vectors · Basic Machine Learning
+- ♽ **Currently Learning** Docker · Jenkins · Kubernetes  
 - ⚽ **Enjoys** Soccer, Chess, and an occasional round of Valorant for balance and strategic thinking
 
 ---
@@ -31,6 +33,6 @@ I'm also a firm believer in fostering a positive, supportive environment - so if
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzain03&layout=compact&theme=dark" alt="Top languages" width="335"/>
 </p>
 
----
-
+<p align="center">
 ⭐️ *Looking forward to making an impact in the tech world, one project at a time!* ⭐️ 
+</p>
