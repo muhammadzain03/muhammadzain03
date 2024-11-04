@@ -1,34 +1,27 @@
-<h1 align="center">Hi there, I'm Muhammad Zain 👋</h1>
+<h1 align="center" style="font-size: 28px;">Hi there, I am Zain! Welcome to my GitHub! 👋</h1>
 
-<p align="center">
+<p align="center" style="font-size: 16px;">
   <a href="https://www.linkedin.com/in/muhammad-zain-48592b267/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/muhammadzain003"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://www.instagram.com/muhammad_zain14/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:muhammadzain0476@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/muhammadzain03"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I’m an ambitious third-year Software Engineering student at the University of Calgary, originally from Pakistan and now a proud resident of Canada 🇨🇦. My journey in software engineering has been fueled by a passion for learning, problem-solving, and contributing to impactful projects. Since arriving in Canada in August 2022, I've immersed myself in the field and am continuously working on projects that build my skills and broaden my experience.
+I’m an ambitious third-year Software Engineering student at the University of Calgary. My journey in software engineering has been fueled by a passion for learning, problem-solving, and contributing to impactful projects. Whether it's building effective applications or diving into new tech, I bring enthusiasm and curiosity to everything I do.
 
-I'm actively looking for internship opportunities across Canada and the US to further apply my knowledge in real-world settings, and to make a positive impression on future employers through a well-rounded GitHub profile.
+I'm also a firm believer in fostering a positive, supportive environment - so if you’re looking for a friendly chat or to collaborate, don’t hesitate to reach out!
 
----
-
-### 🚀 Projects
-
-Here are some of my recent and best projects:
-
-- **E-commerce Web App**: A comprehensive full-stack application built using React for the frontend and Flask for the backend. It includes features like user authentication, product catalog, and cart management.
-
-- **Subway Screen Project**: A real-time GUI application developed with Java and MySQL. It displays advertisements, train locations, news, and weather updates.
-
-- **Flight Management Program**: A program that helps in managing various aspects of flight operations, part of my undergraduate course projects.
-
-- **Museum Art Database Management System**: A SQL-based system designed for efficiently managing and querying an art museum's database.
-
-For more details, please check out the individual repositories in the "Software-Projects" repository where I showcase each project in detail.
+#### Here are a few things I've picked up along my journey at UofC:
+- 🗣 **Java** 𒑰 Swing 𒑰 MySQL 𒑰 JDBC 𒑰 Real-time GUI
+- 💻 **HTML** 𒑰 CSS 𒑰 JavaScript 𒑰 React 𒑰 Flask 𒑰 Node.js
+- 📊 **SQL** 𒑰 Database Design 𒑰 Query Optimization
+- 🎮 **C++** 𒑰 Classes 𒑰 Vectors 𒑰 Basic Machine Learning
+- ♽ **Currently Learning** Docker 𒑰 CI/CD 𒑰 AWS Basics
+- ⚽ **Enjoys** Soccer, Chess, and an occasional round of Valorant for balance and strategic thinking
 
 ---
 
@@ -40,17 +33,4 @@ For more details, please check out the individual repositories in the "Software-
 
 ---
 
-### 📫 Connect with Me
-I'm always open to discussing exciting projects, internship opportunities, or anything related to software engineering. Let's connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-zain-48592b267/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/muhammadzain003"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.instagram.com/muhammad_zain14/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
-Thank you for stopping by, and feel free to reach out!
-
----
-
-⭐️ *Looking forward to making an impact in the tech world, one project at a time!* ⭐️
+⭐️ *Looking forward to making an impact in the tech world, one project at a time!* ⭐️ 
