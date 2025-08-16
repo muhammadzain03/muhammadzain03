@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=bookmark&color=gradient&customColorList=0,1,2,3,4&height=100&section=header&text=Muhammad%20Zain&fontSize=32&fontAlignY=35&desc=3rd%20Year%20Software%20Engineering%20Student%20%40%20University%20of%20Calgary%20%7C%20Internship%20Seeker&descAlignY=65&descAlign=62&descSize=14" alt="Header" />
+  <div style="background: linear-gradient(135deg, #0d1117 0%, #1f2937 25%, #374151 50%, #4b5563 75%, #6b7280 100%); padding: 30px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin: 20px 0;">
+    <h1 style="color: #ffffff; margin: 0; font-size: 2.5em; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Muhammad Zain</h1>
+    <p style="color: #d1d5db; margin: 10px 0 0 0; font-size: 1.1em; font-weight: 400;">3rd Year Software Engineering Student @ University of Calgary | Internship Seeker</p>
+  </div>
 </div>
 
 <div align="center">
