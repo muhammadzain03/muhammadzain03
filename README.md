@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=MUHAMMAD%20ZAIN&fontSize=50&fontAlignY=35&desc=Software%20Engineering%20%7C%20Full-Stack%20Developer&descAlignY=50&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=MUHAMMAD%20ZAIN&fontSize=45&fontAlignY=35&desc=3rd%20Year%20Software%20Engineering%20Student%20%40%20University%20of%20Calgary%20%7C%20Internship%20Seeker&descAlignY=50&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
@@ -12,13 +12,7 @@
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadzain0476@gmail.com)
 </div>
 
-## 🎯 **About Me**
-
 **Hi there, I'm Zain — welcome to my GitHub! 👋**
-
-**3rd Year Software Engineering Student @ University of Calgary | Internship Seeker**
-
-- 🌟 **Full-stack developer** passionate about clean architecture and performant UIs
 
 ## 🛠️ **Tech Arsenal**
 
