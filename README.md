@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MUHAMMAD%20ZAIN&fontSize=60&fontAlignY=35&desc=Software%20Engineering%20%7C%20Full-Stack%20Developer&descAlignY=50&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=MUHAMMAD%20ZAIN&fontSize=50&fontAlignY=35&desc=Software%20Engineering%20%7C%20Full-Stack%20Developer&descAlignY=50&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
-  <h2>🚀 Building the Future, One Line of Code at a Time</h2>
+  <h3>🚀 Building the Future, One Line of Code at a Time</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain03/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadzainweb.vercel.app/)
@@ -16,7 +16,8 @@
 
 **Hi there, I'm Zain — welcome to my GitHub! 👋**
 
-- 🎓 **Third-year Software Engineering** student at **University of Calgary**
+**3rd Year Software Engineering Student @ University of Calgary | Internship Seeker**
+
 - 🌟 **Full-stack developer** passionate about clean architecture and performant UIs
 
 ## 🛠️ **Tech Arsenal**
@@ -47,17 +48,15 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,issues&card_width=300" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzain03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&card_width=300" alt="GitHub Streak" />
 </div>
 
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadzain03&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadzain03&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🚧 **Currently Working On**
@@ -68,11 +67,5 @@
 - ☁️ **Cloud architecture**: AWS, microservices, scalable solutions
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=muhammadzain03&color=blueviolet&style=flat-square)
-  
-  <br/>
-  
-  <h3>**Thanks for visiting — if a repo helps you, a ⭐️ is appreciated.**</h3>
-  
+  <h4>**Thanks for visiting — if a repo helps you, a ⭐️ is appreciated.**</h4>
 </div>
