@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=MUHAMMAD%20ZAIN&fontSize=45&fontAlignY=35&desc=3rd%20Year%20Software%20Engineering%20Student%20%40%20University%20of%20Calgary%20%7C%20Internship%20Seeker&descAlignY=50&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=MUHAMMAD%20ZAIN&fontSize=40&fontAlignY=30&desc=3rd%20Year%20Software%20Engineering%20Student%20%40%20University%20of%20Calgary%20%7C%20Internship%20Seeker&descAlignY=65&descAlign=62&descSize=16" alt="Header" />
 </div>
 
 <div align="center">
@@ -12,7 +12,9 @@
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadzain0476@gmail.com)
 </div>
 
-**Hi there, I'm Zain — welcome to my GitHub! 👋**
+<div align="center">
+  **Hi there, I'm Zain — welcome to my GitHub! 👋**
+</div>
 
 ## 🛠️ **Tech Arsenal**
 
