@@ -27,17 +27,9 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,issues&card_width=300" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&card_width=300" alt="GitHub Streak" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,prs&card_width=350" alt="GitHub Stats" />
 
----
-
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadzain03&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&card_width=350" alt="GitHub Streak" />
 </div>
 
 ---
