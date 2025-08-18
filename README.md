@@ -1,8 +1,5 @@
 <div align="center">
-  <div style="background: linear-gradient(135deg, #0d1117 0%, #1f2937 25%, #374151 50%, #4b5563 75%, #6b7280 100%); padding: 30px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); margin: 20px 0;">
-    <h1 style="color: #ffffff; margin: 0; font-size: 2.5em; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Muhammad Zain</h1>
-    <p style="color: #d1d5db; margin: 10px 0 0 0; font-size: 1.1em; font-weight: 400;">3rd Year Software Engineering Student @ University of Calgary | Internship Seeker</p>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=180&section=header&text=Muhammad%20Zain&fontSize=36&fontAlignY=35&desc=3rd%20Year%20Software%20Engineering%20Student%20%40%20University%20of%20Calgary%20%7C%20Internship%20Seeker&descAlignY=60&descAlign=50&descSize=14" alt="Header" />
 </div>
 
 <div align="center">
@@ -15,8 +12,10 @@
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadzain0476@gmail.com)
 </div>
 
+---
+
 <div align="center">
-  <small>**Hi there, I'm Zain — welcome to my GitHub! 👋**</small>
+  <h4>👋 Hi there, I'm Zain — welcome to my GitHub!</h4>
 </div>
 
 ## 🛠️ **Tech Arsenal**
@@ -28,15 +27,14 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,issues&card_width=300" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&card_width=300" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,issues&card_width=350" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&card_width=350" alt="GitHub Streak" />
 </div>
 
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadzain03&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadzain03&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🚧 **Currently Working On**
@@ -47,5 +45,5 @@
 - ☁️ **Cloud architecture**: AWS, microservices, scalable solutions  
 
 <div align="center">
-  <small>**Thanks for visiting — if a repo helps you, a ⭐️ is appreciated.**</small>
+  <h4>⭐ Thanks for visiting — if a repo helps you, dropping a star means a lot! ⭐</h4>
 </div>
