@@ -2,13 +2,18 @@
   <h1>👋 Muhammad Zain</h1>
   <h3>3rd Year Software Engineering Student @ University of Calgary | Internship Seeker</h3>
   <h4>🚀 Building the Future, One Line of Code at a Time</h4>
-  <h4>✨ Hi there, I'm Zain — welcome to my GitHub! ✨</h4>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain03/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadzainweb.vercel.app/)
-  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muhammadzain003)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammad_zain14/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadzain0476@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zain03/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://muhammadzainweb.vercel.app/)
+  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/muhammadzain003)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/muhammad_zain14/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadzain0476@gmail.com)
+</div>
+
+---
+
+<div align="center">
+  <h4>✨ Hi there, I'm Zain — welcome to my GitHub! ✨</h4>
 </div>
 
 ## 🛠️ **Tech Arsenal**
@@ -22,8 +27,9 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,prs" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,prs&card_width=350" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&card_width=350" alt="GitHub Streak" />
 </div>
 
 ---
@@ -37,7 +43,13 @@
 ---
 
 ## 🚧 **Currently Working On**
-🔥 **Algorithms & data structures** for technical interviews • 🐳 **DevOps**: Docker, CI/CD, reliable deployments • ⚡ **Frontend optimization**: Performance, accessibility, design systems • ☁️ **Cloud architecture**: AWS, microservices, scalable solutions
+
+- 🔥 **Algorithms & data structures** for technical interviews  
+- 🐳 **DevOps**: Docker, CI/CD, reliable deployments  
+- ⚡ **Frontend optimization**: Performance, accessibility, design systems  
+- ☁️ **Cloud architecture**: AWS, microservices, scalable solutions  
+
+---
 
 <div align="center">
   <h4>🙌 Thanks for visiting — if a repo helps you, dropping a ⭐ means a lot!</h4>
