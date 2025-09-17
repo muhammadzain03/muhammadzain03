@@ -45,7 +45,7 @@
 
 - 🔥 **Algorithms & data structures** for technical interviews  
 - 🐳 **DevOps**: Docker, CI/CD, reliable deployments  
-- ⚡ **Frontend optimization**: Performance, accessibility, design systems  
+- ⚡ **Frontend optimization**: performance, accessibility, design systems  
 - ☁️ **Cloud architecture**: AWS, microservices, scalable solutions  
 
 ---
