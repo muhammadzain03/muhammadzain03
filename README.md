@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Muhammad Zain</h1>
   <h3>3rd Year Software Engineering Student @ University of Calgary | Internship Seeker</h3>
-  <h4>🚀 Building the Future, One Line of Code at a Time</h4>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadzain03/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://muhammadzain.app/)
@@ -13,7 +12,7 @@
 ---
 
 <div align="center">
-  <h4>✨ Hi there, I'm Zain — welcome to my GitHub! ✨</h4>
+  <h4>✨ Hi there, I'm Zain - welcome to my GitHub! ✨</h4>
 </div>
 
 ## 🛠️ **Tech Arsenal**
@@ -52,5 +51,5 @@
 ---
 
 <div align="center">
-  <h4>🙌 Thanks for visiting — if a repo helps you, dropping a ⭐ means a lot!</h4>
+  <h4>🙌 Thanks for visiting - if a repo helps you, dropping a ⭐ means a lot!</h4>
 </div>
