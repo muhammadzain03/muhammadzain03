@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Muhammad Zain</h1>
-  <h3>3rd Year Software Engineering Student @ University of Calgary | Internship Seeker</h3>
+  <h3>4th Year Software Engineering Student @ University of Calgary | Internship Seeker</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadzain03/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://muhammadzain.app/)
@@ -26,9 +26,9 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,prs&card_width=350" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadzain03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&hide=contribs,prs&cache_seconds=1800" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&card_width=350" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadzain03&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
