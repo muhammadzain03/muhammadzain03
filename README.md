@@ -36,7 +36,7 @@
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadzain03&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.ryotak.me/?username=muhammadzain03&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
