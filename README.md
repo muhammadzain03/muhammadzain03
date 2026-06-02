@@ -36,7 +36,7 @@
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.ryotak.me/?username=muhammadzain03&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadzain03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
